@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "com.dogadoption.app-debug-34:/xml_file_paths.xml.flat",
+        "source": "com.dogadoption.app-main-36:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/layout_activity_register.xml.flat",
+        "source": "com.dogadoption.app-main-36:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_ic_person.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_bg_card_white.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/bg_card_white.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_bg_circle_gray.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/bg_circle_gray.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_ic_person_placeholder.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/ic_person_placeholder.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_ic_add.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_bg_stat_card.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/bg_stat_card.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/layout_activity_admin_users.xml.flat",
+        "source": "com.dogadoption.app-main-36:/layout/activity_admin_users.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/layout_activity_dog_detail.xml.flat",
+        "source": "com.dogadoption.app-main-36:/layout/activity_dog_detail.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_ic_check_circle.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_ic_dog.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/ic_dog.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.dogadoption.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/layout_activity_adoption_history.xml.flat",
+        "source": "com.dogadoption.app-main-36:/layout/activity_adoption_history.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_bg_filter_chip.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/bg_filter_chip.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/layout_activity_admin_adoptions.xml.flat",
+        "source": "com.dogadoption.app-main-36:/layout/activity_admin_adoptions.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/layout_item_adoption_record.xml.flat",
+        "source": "com.dogadoption.app-main-36:/layout/item_adoption_record.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_ic_search.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/layout_activity_login.xml.flat",
+        "source": "com.dogadoption.app-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/layout_item_dog_card.xml.flat",
+        "source": "com.dogadoption.app-main-36:/layout/item_dog_card.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/layout_item_admin_user.xml.flat",
+        "source": "com.dogadoption.app-main-36:/layout/item_admin_user.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_ic_dog_placeholder.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/ic_dog_placeholder.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_bg_search_bar.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/bg_search_bar.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/menu_main_menu.xml.flat",
+        "source": "com.dogadoption.app-main-36:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/layout_item_admin_adoption.xml.flat",
+        "source": "com.dogadoption.app-main-36:/layout/item_admin_adoption.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/layout_activity_profile.xml.flat",
+        "source": "com.dogadoption.app-main-36:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_bg_circle_red_light.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/bg_circle_red_light.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_ic_history.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/layout_activity_add_edit_dog.xml.flat",
+        "source": "com.dogadoption.app-main-36:/layout/activity_add_edit_dog.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_ic_logout.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/color_color_filter_chip_text.xml.flat",
+        "source": "com.dogadoption.app-main-36:/color/color_filter_chip_text.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/layout_activity_admin_dashboard.xml.flat",
+        "source": "com.dogadoption.app-main-36:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/menu_admin_menu.xml.flat",
+        "source": "com.dogadoption.app-main-36:/menu/admin_menu.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_ic_delete.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_bg_circle_primary.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/bg_circle_primary.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/drawable_ic_arrow_right.xml.flat",
+        "source": "com.dogadoption.app-main-36:/drawable/ic_arrow_right.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/layout_activity_splash.xml.flat",
+        "source": "com.dogadoption.app-main-36:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-debug-34:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.dogadoption.app-main-36:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    }
+]
