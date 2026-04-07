@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.dogadoption.app-mergeDebugResources-33:/layout/activity_profile.xml",
+        "source": "com.dogadoption.app-main-36:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-mergeDebugResources-33:/layout/item_admin_adoption.xml",
+        "source": "com.dogadoption.app-main-36:/layout/item_admin_adoption.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.dogadoption.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-mergeDebugResources-33:/layout/activity_adoption_history.xml",
+        "source": "com.dogadoption.app-main-36:/layout/activity_adoption_history.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-mergeDebugResources-33:/layout/activity_admin_adoptions.xml",
+        "source": "com.dogadoption.app-main-36:/layout/activity_admin_adoptions.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-mergeDebugResources-33:/layout/item_adoption_record.xml",
+        "source": "com.dogadoption.app-main-36:/layout/item_adoption_record.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-mergeDebugResources-33:/layout/activity_dog_detail.xml",
+        "source": "com.dogadoption.app-main-36:/layout/activity_dog_detail.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-mergeDebugResources-33:/layout/item_dog_card.xml",
+        "source": "com.dogadoption.app-main-36:/layout/item_dog_card.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-mergeDebugResources-33:/layout/item_admin_user.xml",
+        "source": "com.dogadoption.app-main-36:/layout/item_admin_user.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-mergeDebugResources-33:/layout/activity_add_edit_dog.xml",
+        "source": "com.dogadoption.app-main-36:/layout/activity_add_edit_dog.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-mergeDebugResources-33:/layout/activity_splash.xml",
+        "source": "com.dogadoption.app-main-36:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-mergeDebugResources-33:/layout/activity_admin_users.xml",
+        "source": "com.dogadoption.app-main-36:/layout/activity_admin_users.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-mergeDebugResources-33:/layout/activity_admin_dashboard.xml",
+        "source": "com.dogadoption.app-main-36:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-mergeDebugResources-33:/layout/activity_register.xml",
+        "source": "com.dogadoption.app-main-36:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.dogadoption.app-mergeDebugResources-33:/layout/activity_login.xml",
+        "source": "com.dogadoption.app-main-36:/layout/activity_login.xml"
+    }
+]

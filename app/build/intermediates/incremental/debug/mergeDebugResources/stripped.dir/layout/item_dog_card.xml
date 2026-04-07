@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="6dp"
+    app:cardCornerRadius="12dp"
+    app:cardElevation="3dp"
+    android:foreground="?attr/selectableItemBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Dog Image -->
+        <ImageView
+            android:id="@+id/iv_dog_photo"
+            android:layout_width="match_parent"
+            android:layout_height="140dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ic_dog_placeholder"
+            android:contentDescription="Dog photo"
+            android:background="@color/gray_light"/>
+
+        <!-- Info -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <TextView
+                android:id="@+id/tv_dog_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dog Name"
+                android:textColor="@color/text_primary"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:maxLines="1"
+                android:ellipsize="end"/>
+
+            <TextView
+                android:id="@+id/tv_dog_breed"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Breed"
+                android:textColor="@color/text_secondary"
+                android:textSize="12sp"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:layout_marginTop="2dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:layout_marginTop="6dp">
+
+                <TextView
+                    android:id="@+id/tv_dog_age"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="# yr"
+                    android:textColor="@color/text_secondary"
+                    android:textSize="12sp"/>
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/chip_status"
+                    android:layout_width="wrap_content"
+                    android:layout_height="26dp"
+                    android:text="Available"
+                    android:textColor="@color/white"
+                    android:textSize="10sp"
+                    app:chipBackgroundColor="@color/status_available"
+                    app:chipMinHeight="26dp"
+                    app:chipStartPadding="6dp"
+                    app:chipEndPadding="6dp"/>
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

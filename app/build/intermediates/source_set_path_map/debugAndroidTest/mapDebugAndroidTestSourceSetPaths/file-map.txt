@@ -1,0 +1,4 @@
+com.dogadoption.app.test.app-androidTest-0 E:\School Codes\Latest\DogAdoptionApp\app\build\generated\res\resValues\androidTest\debug
+com.dogadoption.app.test.app-mergeDebugAndroidTestResources-1 E:\School Codes\Latest\DogAdoptionApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.dogadoption.app.test.app-mergeDebugAndroidTestResources-2 E:\School Codes\Latest\DogAdoptionApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.dogadoption.app.test.app-debugAndroidTest-3 E:\School Codes\Latest\DogAdoptionApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
